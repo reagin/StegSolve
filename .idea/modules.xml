@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/stegsolve.iml" filepath="$PROJECT_DIR$/stegsolve.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StegSolve.iml" filepath="$PROJECT_DIR$/StegSolve.iml" />
     </modules>
   </component>
 </project>
